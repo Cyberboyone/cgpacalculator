@@ -1,0 +1,15 @@
+# Flutter and Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android/Gradle generated files
+**/.gradle/
+**/android/.idea/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
